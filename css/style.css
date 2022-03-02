@@ -873,7 +873,7 @@ footer .copyright-text {
     height: 65vh;
   }
 
-  #overview {text-align: left;}
+  #overview {text-align: center;}
 
   #overview blockquote {
     top: 260px;
