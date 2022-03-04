@@ -633,7 +633,7 @@ ul {
     Price section              
 -----------------------------------------*/
 #price {
-  background: url('../images/price-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('https://res.cloudinary.com/prewsh/image/upload/v1646391100/price-bg_agoxji.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;

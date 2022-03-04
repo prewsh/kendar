@@ -79,7 +79,7 @@ $(document).ready(function() {
     jQuery(document).ready(function() {
     $('#home').backstretch([
        "images/slid1.jpg", 
-       "images/slid2.jpeg",
+       "https://res.cloudinary.com/prewsh/image/upload/v1646391129/slid2_tuurcl.png",
         ],  {duration: 2000, fade: 750});
     });
   })
